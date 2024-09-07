@@ -8,7 +8,7 @@ hello git! hello world!
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
+hello git! hello world! hot-fix test
 hello git! hello world!
-hello git! hello world!
-hello git! hello world!
+hello git! hello world! 
 hello git! hello world! hot-fix modified
